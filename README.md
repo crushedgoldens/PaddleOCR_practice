@@ -1,0 +1,2 @@
+# PaddleOCR_practice
+PaddleOCR的个人训练与学习调用
